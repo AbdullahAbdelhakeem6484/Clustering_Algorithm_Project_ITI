@@ -4,7 +4,7 @@ DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are
 #python Programming
 ## Project in Master Branch
 # Team Members GR3 ITI:							  						                       										                     
- 				1- Abdullah Abdelhakeem
+ 				   1- Abdullah Abdelhakeem
         2- Mohamed Mostafa
         3- ElShaimaa Hassan
         4- Mohamed Sebaie
@@ -48,7 +48,7 @@ DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are
 <ol>
   <ul><img  src="Image/k7.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
-V
+
 <ol>
   <ul><img  src="Image/k8.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
@@ -109,7 +109,7 @@ V
 <ol>
   <ul><img  src="Image/d7.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
-V
+
 <ol>
   <ul><img  src="Image/d8.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
