@@ -91,9 +91,6 @@ DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are
 
 <h3>DBSCAN</h3>
 <ol>
-  <ul><img  src="Image/kd0.PNG" alt="DBSCAN_K-MEAN"/></ul>
-</ol>
-<ol>
   <ul><img  src="Image/d1.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
@@ -136,10 +133,15 @@ DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are
 <ol>
   <ul><img  src="Image/d14.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
-<ol>
-  <ul><img  src="Image/d15.PNG" alt="DBSCAN_K-MEAN"/></ul>
-</ol>
+
 <ol>
   <ul><img  src="Image/d16.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 
+<ol>
+  <ul><img  src="Image/d15.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+
+<ol>
+  <ul><img  src="Image/kd0.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
