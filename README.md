@@ -22,8 +22,50 @@ DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are
           - DBSCAN Algorithm
 
 <h1>Image Projects</h1>
-<h4>K-Means And Mean-Shift</h4>
+<h3>K-Means And Mean-Shift</h3>
 <ol>
   <ul><img  src="Image/kd0.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
-
+<ol>
+  <ul><img  src="Image/K1.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K2.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K3.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K4.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K5.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K6.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K7.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+V
+<ol>
+  <ul><img  src="Image/K8.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K9.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K10.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K11.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K12.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K13.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
+<ol>
+  <ul><img  src="Image/K14.PNG" alt="DBSCAN_K-MEAN"/></ul>
+</ol>
