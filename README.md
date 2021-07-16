@@ -27,45 +27,45 @@ DBSCAN vs Merging Mean-Shift with K-Means  (Mean shift and K-Means algorithm are
   <ul><img  src="Image/kd0.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K1.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k1.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K2.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k2.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K3.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k3.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K4.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k4.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K5.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k5.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K6.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k6.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K7.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k7.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 V
 <ol>
-  <ul><img  src="Image/K8.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k8.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K9.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k9.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K10.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k10.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K11.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k11.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K12.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k12.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K13.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k13.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
 <ol>
-  <ul><img  src="Image/K14.PNG" alt="DBSCAN_K-MEAN"/></ul>
+  <ul><img  src="Image/k14.PNG" alt="DBSCAN_K-MEAN"/></ul>
 </ol>
